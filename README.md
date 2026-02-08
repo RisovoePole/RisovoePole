@@ -1,16 +1,30 @@
-## Hi there 👋
+## Привет - привет! 👋
 
-<!--
-**RisovoePole/RisovoePole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Красивое фото меня](images/photo_of_me.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Немного о себе
+
+Студент, изучающий то, что надо и не надо, ради своего счастья.
+
+## Области интересов
+
+Немного математики, настольные игры, спорт, немного чтения, написание не идельного кода.
+
+## Языки програмирования
+
+### Знаю(не полностью)
+ - C++
+ - Java
+### Изучаю
+ - Python
+### Планирую изучать
+ - Assembler
+
+ ## Контактные данные
+
+ - Telegram `@ViteaRU`
+ - Gmail `teamogurcic6002@gmail.com`
